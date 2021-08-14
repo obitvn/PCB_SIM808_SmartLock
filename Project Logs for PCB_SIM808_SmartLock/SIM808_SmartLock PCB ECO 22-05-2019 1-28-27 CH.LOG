@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetLED5_1 Pin=RM1-1
+Removed Pin From Net: NetName=NetLED4_1 Pin=RM1-2
+Removed Pin From Net: NetName=NetLED3_1 Pin=RM1-3
+Removed Pin From Net: NetName=NetLED2_1 Pin=RM1-4
+Added Pin To Net: NetName=NetLED2_1 Pin=RM1-1
+Added Pin To Net: NetName=NetLED3_1 Pin=RM1-2
+Added Pin To Net: NetName=NetLED4_1 Pin=RM1-3
+Added Pin To Net: NetName=NetLED5_1 Pin=RM1-4
+Added Room: Name=SIM808_SmartLock

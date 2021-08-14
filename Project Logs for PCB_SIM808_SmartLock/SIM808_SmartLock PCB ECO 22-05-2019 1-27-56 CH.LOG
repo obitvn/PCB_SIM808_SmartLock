@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=R9 NewDesignator=R6
+Change Component Designator: OldDesignator=R10 NewDesignator=R7
+Change Component Designator: OldDesignator=R11 NewDesignator=R8
+Added Component: Designator=RM1(RN4-0805)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetLED5_1 Pin=RM1-1
+Added Pin To Net: NetName=NetLED4_1 Pin=RM1-2
+Added Pin To Net: NetName=NetLED3_1 Pin=RM1-3
+Added Pin To Net: NetName=NetLED2_1 Pin=RM1-4
+Added Pin To Net: NetName=5VDC Pin=RM1-5
+Added Pin To Net: NetName=5VDC Pin=RM1-6
+Added Pin To Net: NetName=5VDC Pin=RM1-7
+Added Pin To Net: NetName=5VDC Pin=RM1-8
+Added Member To Class: ClassName=SIM808_SmartLock Member=Component R4 1k
+Added Member To Class: ClassName=SIM808_SmartLock Member=Component R5 1k
+Added Member To Class: ClassName=SIM808_SmartLock Member=Component RM1 1k
+Added Room: Name=SIM808_SmartLock
